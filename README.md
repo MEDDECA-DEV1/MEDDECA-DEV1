@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meddeca-dev1" alt="meddeca-dev1" /></a> </p>
 
-- 🌱 I’m currently learning **react, graphql**
+- 🌱 I’m currently learning **react, graphql,vue**
 
-- 💬 Ask me about **php, laravel, js, react, css**
+- 💬 Ask me about **php, laravel, js, react, vue**
 
 - 📫 How to reach me **mahdi.bouzougar@gmail.com**
 
